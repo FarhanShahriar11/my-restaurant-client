@@ -1,0 +1,24 @@
+.banner {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.5)), url('../../assets/banner.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    opacity: 0.9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title {
+    font-family: 'Alex Brush', cursive;
+    color: #C69F7C;
+}
+
+.button-color {
+    background: #b39174;
+    color: #fff;
+    transition: .4s;
+}
+
+.button-color:hover {
+    background: #302c28;
+}
